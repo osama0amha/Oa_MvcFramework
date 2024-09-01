@@ -1,5 +1,5 @@
 {
-    "name": "os/mvc_framework",
+    "name": "oa/mvc_framework",
     "autoload": {
         "psr-4": {
             "Os\\MvcFramework\\": "."
