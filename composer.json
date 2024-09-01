@@ -1,0 +1,9 @@
+{
+    "name": "os/mvc_framework",
+    "autoload": {
+        "psr-4": {
+            "Os\\MvcFramework\\": "."
+        }
+    },
+    "require": {}
+}
